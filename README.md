@@ -55,3 +55,7 @@ This **Business Analytics Capstone** project focuses on optimizing the location 
 
 ## Acknowledgments
 Special thanks to GM's EDAI members Daniel Fagnant and Anqi Lou for their guidance.
+
+
+![image](https://github.com/user-attachments/assets/fec67f3b-1698-4412-a546-348b6cdaa09e)
+

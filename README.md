@@ -9,8 +9,8 @@ This **Business Analytics Capstone** project focuses on optimizing the location 
 
 
 ## Team Members
-- Muhammad Ibrahim
 - Rohan Giri
+- Muhammad Ibrahim
 - Sarah Lee
 - Varsha Manju Jayakumar
 - Ammar Mustufa
